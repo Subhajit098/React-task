@@ -1,0 +1,12 @@
+.item{
+    /* display: grid; */
+    padding: 20px;
+    text-align: center;
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
+.Email,.Phone,.Website{
+    display: inline-block;
+    margin: 10px;
+}
